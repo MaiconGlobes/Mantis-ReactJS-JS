@@ -272,10 +272,7 @@ const DashboardDefault = () => {
                                     <MessageOutlined />
                                 </Avatar>
                             </ListItemAvatar>
-                            <ListItemText
-                                primary={<Typography variant="subtitle1">Order #984947</Typography>}
-                                secondary="5 August, 1:45 PM"
-                            />
+                            <ListItemText primary={<Typography variant="subtitle1">Order #984947</Typography>} secondary="5 August, 1:45 PM" />
                             <ListItemSecondaryAction>
                                 <Stack alignItems="flex-end">
                                     <Typography variant="subtitle1" noWrap>
