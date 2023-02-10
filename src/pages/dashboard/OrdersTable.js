@@ -54,6 +54,8 @@ function stableSort(array, comparator) {
     return stabilizedThis.map((el) => el[0]);
 }
 
+// ==============================|| ORDER TABLE - HEADER CELL ||============================== //
+
 const headCells = [
     {
         id: 'trackingNo',
